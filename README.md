@@ -1,4 +1,4 @@
-#IEDC: An Integrated Approach for Overlapping and
+#IEDC: An Integrated Approach for Overlapping and Non-Overlapping Community Detection
 
 Abstract
 
