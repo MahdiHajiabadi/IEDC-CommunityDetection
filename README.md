@@ -1,7 +1,19 @@
-# IEDC-CommunityDetection
-A general framework for finding communities with different parts of overlapping
-The main file is Main.R. You should pass 2 input parametes to Main. Input Network with the gound truth community (AmericanFootball_Truth.gml for example) and the seedset (Seed). If you did not have the seedset you should do the following steps: 
-1. Build the adjacency matrix of your network. 
-2. Run the Read_Data.m in the edgeclustring folder. 
-Please feel free to contact me. (m.hajiabadi@ut.ac.ir)
-
+#IEDC: An Integrated Approach for Overlapping and
+Abstract: 
+Community detection is a task of fundamental importance in social network
+analysis. Community structures enable us to discover the hidden interactions
+among the network members that can be used in many knowledge-based do-
+mains such as bioinformatics, computer networks, e-commerce and forensic
+science. While there exist many works on community detection based on
+connectivity structure, they suffer from either considering the overlapping
+or non-overlapping community structures. In this work, we propose a novel
+approach for general community detection through an integrated framework
+to extract the overlapping and non-overlapping community structures with-
+out assuming prior structural connectivity on the networks. Our general
+framework is based on a primary node based criterion which consists up
+the internal association degree along with the external association degree to
+compute the criterion in the proposed approach. The evaluation of the pro-
+posed method is investigated through the extensive simulation experiments
+and several benchmark real network data-sets. The experimental results show
+that the proposed method outperforms the earlier state-of-the-art algorithms
+based on the well-known evaluation criteria.
