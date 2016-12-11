@@ -1,5 +1,7 @@
 #IEDC: An Integrated Approach for Overlapping and
-Abstract: 
+
+Abstract
+
 Community detection is a task of fundamental importance in social network
 analysis. Community structures enable us to discover the hidden interactions
 among the network members that can be used in many knowledge-based do-
